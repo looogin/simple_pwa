@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/looogin/simple_pwa/issues"
   },
-  "homepage": "https://github.com/looogin/simple_pwa#readme"
+  "homepage": "https://github.com/looogin/simple_pwa#readme",  
+  "mode":"module"
 }
