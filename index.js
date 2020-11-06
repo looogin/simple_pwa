@@ -1,4 +1,3 @@
-import path from 'path'
-const __dirname = path.resolve();
+import getAllFilesName from './getFilesNamesFromDir.js'
 
-console.log(__dirname)
+console.log(getAllFilesName('152'))
