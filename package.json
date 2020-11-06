@@ -1,0 +1,19 @@
+{
+  "name": "simple_pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/looogin/simple_pwa.git"
+  },
+  "author": "Alex Dmitriev (https://github.com/looogin)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/looogin/simple_pwa/issues"
+  },
+  "homepage": "https://github.com/looogin/simple_pwa#readme"
+}
